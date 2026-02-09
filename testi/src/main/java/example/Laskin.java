@@ -5,6 +5,6 @@ public class Laskin {
         System.out.println("Hello world!");
     }
     public static int laskin(int a, int b) {
-        return a+b+10;
+        return a+b;
     }
 }
